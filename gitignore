@@ -1,0 +1,6 @@
+# Ignore temporary Excel and system files
+~$*
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
